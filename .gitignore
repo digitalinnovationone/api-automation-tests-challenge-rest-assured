@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java
 
 .idea/*
+.allure/*
 
 ### Java ###
 # Compiled class file
